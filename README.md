@@ -51,8 +51,8 @@ The translation for `validation.yml` is based on [the language pack for Laravel]
 ## Useful Links
 
 * [Home Page](https://flarum.org)
-* [Composer](https://getcomposer.org/)
-* [Packagist](https://packagist.org/)
-* [Weblate](https://weblate.org/)
+* [Composer](https://getcomposer.org)
+* [Packagist](https://packagist.org)
+* [Weblate](https://weblate.org)
 
 
