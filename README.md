@@ -41,7 +41,7 @@ Flarum tamil language pack currently support to get translation using below exte
 
 https://weblate.rob006.net/languages/ta/flarum/
 
-(Your translation automatically copy to this language pack repository).
+(Your translation automatically copy to this language pack repository however we release new version once received considerable amount of translations only).
 
 ## Credits
 
