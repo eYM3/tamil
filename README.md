@@ -28,11 +28,16 @@ After updating, we clean the cache:.
 
 Open an issue on https://github.com/flarum-lang/tamil/issues/new
 
+### FAQ
+
+**Question: I installed the tamil language pack but flarum contents still display in english; what should i do?**<br />
+_Answer: You can help to solve that problem; Please see the details on "Contribute" section._
+
 ## Contribute
 
 How to help for translation?
 
-Flarum tamil language pack currently support translation using below external platform. Please create account on that site then start to translate. 
+Flarum tamil language pack currently support to get translation using below external platform. Please create account on that site then start to translate. 
 
 https://weblate.rob006.net/languages/ta/flarum/
 
