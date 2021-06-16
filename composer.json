@@ -16,7 +16,7 @@
 		}
 	],
 	"support": {
-		"issues": "https://github.com/flarum-lang/tamil/issues/new",
+		"issues": "https://github.com/flarum-lang/tamil/issues",
 		"source": "https://github.com/flarum-lang/tamil/"
 	},
 	"require": {
@@ -39,9 +39,6 @@
 		"flarum-locale": {
 			"code": "ta",
 			"title": "தமிழ்"
-		},
-		"flagrow": {
-			"discuss": "https://discuss.flarum.org"
 		}
 	}
 }
