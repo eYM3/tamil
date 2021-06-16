@@ -6,3 +6,5 @@ fof-discussion-language:
   forum:
     change_language:
       submit_button: '=> core.ref.save_changes'
+    composer_discussion:
+      choose_language_link: மொழி
