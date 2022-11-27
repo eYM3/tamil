@@ -6,7 +6,7 @@
 	"keywords": [
 		"locale",
 		"flarum",
-		"flarum-tamil"
+		"tamil-flarum"
 	],
 	"license": "MIT",
 	"authors": [
@@ -26,7 +26,7 @@
 	"prefer-stable": true,
 	"extra": {
 		"branch-alias": {
-			"dev-master": "0.5.x-dev"
+			"dev-master": "0.2.x-dev"
 		},
 		"flarum-extension": {
 			"title": "Tamil",
