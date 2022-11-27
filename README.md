@@ -99,7 +99,6 @@ https://weblate.rob006.net/languages/ta/flarum/
 ## Credits
 
 The translation for `Day.js` comes directly from the [source](https://github.com/iamkun/dayjs/blob/v1.10.5/src/locale/ta.js)<br />
-The translation for `validation.yml` is based on [the language pack for Laravel](https://github.com/Laravel-Lang/lang/blob/8.1.3/src/ta/validation.php).
 
 ## Useful Links
 
