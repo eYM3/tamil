@@ -1,3 +1,8 @@
+> **This language pack is searching for a maintainer!**
+>
+> This language pack is maintained by the community. Anyone can translate through [Weblate](https://weblate.rob006.net/languages/ta/flarum/) and no one verifies contributed translations. If you want to help maintain this package, you can contact us in [this discussion](https://discuss.flarum.org/d/27519-the-flarum-language-project).
+
+
 # Tamil language pack for [Flarum](https://flarum.org/)
 
 The package contains translations for Flarum (compatible with version 1.0.0 or newer)
@@ -6,7 +11,7 @@ The package contains translations for Flarum (compatible with version 1.0.0 or n
 
 We install the extension using [Composer](https://getcomposer.org/):
 
-> `composer require flarum-lang/tamil`
+> `composer require flarum-lang/tamil:dev-main`
 
 Then turn on the extension in the admin panel.
 
@@ -18,7 +23,7 @@ We install updates using [Composer](https://getcomposer.org/):
 
 Or force update to the latest version (recommended when upgrading to a new version of Flarum):
 
-> `composer require flarum-lang/tamil`
+> `composer require flarum-lang/tamil:dev-main`
 
 After updating, we clean the cache:.
 
