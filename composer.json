@@ -30,6 +30,7 @@
 		},
 		"flarum-extension": {
 			"title": "Tamil",
+			"category": "language",
 			"icon": {
 				"image": "icon.svg",
 				"backgroundSize": "cover",
