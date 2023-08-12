@@ -27,6 +27,31 @@ After updating, we clean the cache:.
 
 > `php flarum cache:clear`
 
+</br >
+
+## Get Help
+
+Open an issue on https://github.com/flarum-lang/tamil/issues/new
+
+### Frequently Asked Questions
+
+**Question: I installed the tamil language pack but it is incomplete, What should i do?**<br />
+Answer: This is the official tamil language pack. You can solve that problem; Please see the details on "How do I contribute" section.
+
+## How do I contribute?
+
+If you wish to contribute translations, do not submit pull requests. Instead, please use Weblate.
+
+Strings may contain words on a technical level. Do not suggest a translation if you do not understand at least the rough meaning of such a word.
+
+- [Register an account](https://weblate.rob006.net/accounts/register/)
+- Go to the [project page](https://weblate.rob006.net/languages/ta/flarum/)<br />
+(https://weblate.rob006.net/languages/ta/flarum/)
+
+If you see something that has been translated poorly, make a new suggestion!
+
+</br >
+
 ## Translation status for Flarum core
 
 | Component | Status |
@@ -98,25 +123,6 @@ After updating, we clean the cache:.
 
 <!-- premium-extensions-list-stop -->
 
-
-## Ask Question 
-
-Open an issue on https://github.com/flarum-lang/tamil/issues/new
-
-### FAQ
-
-**Question: I installed the tamil language pack but some contents still display in english; what should i do?**<br />
-_Answer: You can help to solve that problem; Please see the details on "Contribute" section._
-
-## Contribute
-
-How to help for translation?
-
-Flarum tamil language pack currently support to get translation using below external platform. Please create account on that site then start to translate. 
-
-https://weblate.rob006.net/languages/ta/flarum/
-
-(Your translation automatically copy to this language pack repository however we release new version once received considerable amount of translations only).
 
 ## Credits
 
