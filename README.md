@@ -36,7 +36,7 @@ Open an issue on https://github.com/flarum-lang/tamil/issues/new
 ### Frequently Asked Questions
 
 **Question: I installed the tamil language pack but it is incomplete, What should i do?**<br />
-Answer: This is the official tamil language pack. You can solve that problem; Please see the details on "How do I contribute" section.
+Answer: This is the official tamil language pack. You can solve that problem; Please see below.
 
 ## How do I contribute?
 
