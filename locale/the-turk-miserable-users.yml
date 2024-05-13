@@ -6,5 +6,3 @@ the-turk-miserable-users:
   admin:
     permissions:
       miserable_user_label: '=> the-turk-miserable-users.ref.miserable_user'
-    settings:
-      range_seconds_text: ' තත්පර'
