@@ -2,7 +2,7 @@ CHANGELOG
 =========
 
 
-0.3.1 (XXXX-XX-XX)
+0.3.1 (2024-05-13)
 ------------------
 
 **Updated translations for extensions**:
