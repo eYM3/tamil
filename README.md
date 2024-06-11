@@ -118,8 +118,8 @@ If you see something that has been translated poorly, make a new suggestion!
 
 | Extension | Status |
 | --- | --- |
-| [`kilowhat/flarum-ext-custom-paths`](https://extiverse.com/extension/kilowhat/flarum-ext-custom-paths) | [![Translation status](https://weblate.rob006.net/widgets/flarum/ta/kilowhat-custom-paths/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/kilowhat-custom-paths/ta/) |
-| [`kilowhat/flarum-ext-formulaire`](https://extiverse.com/extension/kilowhat/flarum-ext-formulaire) | [![Translation status](https://weblate.rob006.net/widgets/flarum/ta/kilowhat-formulaire/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/kilowhat-formulaire/ta/) |
+| [`kilowhat/flarum-ext-custom-paths`](https://flarum.org/extension/kilowhat/flarum-ext-custom-paths) | [![Translation status](https://weblate.rob006.net/widgets/flarum/ta/kilowhat-custom-paths/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/kilowhat-custom-paths/ta/) |
+| [`kilowhat/flarum-ext-formulaire`](https://flarum.org/extension/kilowhat/flarum-ext-formulaire) | [![Translation status](https://weblate.rob006.net/widgets/flarum/ta/kilowhat-formulaire/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/kilowhat-formulaire/ta/) |
 
 <!-- premium-extensions-list-stop -->
 
